@@ -17,7 +17,6 @@ class ChatActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityChatBinding
     private lateinit var database: FirebaseDatabase
-
     private lateinit var senderUid:String
     private lateinit var receiverUid:String
 
