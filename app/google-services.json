@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932314029345",
+    "project_id": "chatapplicationpracticefinal",
+    "storage_bucket": "chatapplicationpracticefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932314029345:android:818feacd1be8264127f260",
+        "android_client_info": {
+          "package_name": "com.example.chatapplicationpracticefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HEqcDZsODrC1y8FQ2e0ptTn_F6bEWTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
